@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "usr_ruchita",
+      "username": "ruchita",
+      "role": "admin",
+      "name": "Ruchita Wagh",
+      "avatar": "",
+      "email": "ruchita.wagh@factory-dash.com"
+    },
+    {
+      "id": "usr_nehapal",
+      "username": "nehapal",
+      "role": "admin",
+      "name": "Neha Pal",
+      "avatar": "",
+      "email": "neha.pal@factory-dash.com"
+    }
+  ],
+  "userPasswords": {
+    "ruchita": "ruchita123",
+    "nehapal": "neha123"
+  }
+}

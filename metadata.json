@@ -1,0 +1,10 @@
+{
+  "name": "Smart_factory_dashboard",
+  "description": "A simple and clean Smart Factory Machine Monitoring and Management System built as a BCA 5th semester web development project.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
